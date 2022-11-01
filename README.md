@@ -1,2 +1,2 @@
 # Comparison-of-Encryption-Algorithms
-Compare and contrast different encryption algorithms.
+We have focussed on those encryption methods that require a cipher- namely Affine, Vigenere, Hill, Playfair and Autokey
